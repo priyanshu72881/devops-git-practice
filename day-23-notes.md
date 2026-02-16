@@ -1,20 +1,8 @@
-﻿Difference
-between
-origin
-and
-upstream
-origin
-is
-your
-remote
-repository.
-upstream
-is
-the
-original
-repository
-you
-forked
-from.
+Difference between git fetch and git pull:
 
-This line was added from GitHub website.
+
+
+git fetch downloads changes from remote repository but does not merge them.
+
+git pull downloads changes and automatically merges them.
+
